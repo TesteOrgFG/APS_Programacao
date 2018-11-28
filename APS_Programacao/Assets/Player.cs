@@ -5,7 +5,7 @@ using UnityEngine;
 public class Player : MonoBehaviour {
 
     Rigidbody2D rb;
-    public float speed;
+    public float speedy;
     Vector2 direction;
 
 
@@ -13,14 +13,14 @@ public class Player : MonoBehaviour {
     void Start () {
 
         rb = GetComponent<Rigidbody2D>();
-        speed = 10;
+        speedy = 15;
 	}
 	
 	// Update is called once per frame
 	void FixedUpdate() {
 
         Vector2 vel = rb.velocity;
-        vel.y = Input.GetAxis("Vertical") * speed;
+        vel.y = Input.GetAxis("Vertical") * speedy;
 
         rb.velocity = vel;
     }
