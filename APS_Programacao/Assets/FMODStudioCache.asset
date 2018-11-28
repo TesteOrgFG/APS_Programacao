@@ -12,34 +12,14 @@ MonoBehaviour:
   m_Name: FMODStudioCache
   m_EditorClassIdentifier: 
   EditorBanks:
-  - {fileID: 114631591256909852}
-  - {fileID: 114161063191778846}
-  EditorEvents: []
-  MasterBankRef: {fileID: 114161063191778846}
-  StringsBankRef: {fileID: 114631591256909852}
-  stringsBankWriteTime: 636790251573898059
+  - {fileID: 114182340493027042}
+  - {fileID: 114694973905315000}
+  EditorEvents:
+  - {fileID: 114672787172031634}
+  MasterBankRef: {fileID: 114694973905315000}
+  StringsBankRef: {fileID: 114182340493027042}
+  stringsBankWriteTime: 636790252381455196
   cacheVersion: 2
---- !u!114 &114009663265952606
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  Path: "event:/M\xFAsicas/Fase 1"
-  guid: b819566a0df619468364ec8fe5cb0618
-  Banks: []
-  IsStream: 0
-  Is3D: 0
-  IsOneShot: 1
-  Parameters: []
-  MinDistance: 0
-  MaxDistance: 0
-  Length: 0
 --- !u!114 &114161063191778846
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -54,11 +34,29 @@ MonoBehaviour:
   Path: "C:\\Users\\arthu\\Documents\\FACULDADE\\3\xBA SEMESTRE\\PROGRAMA\xC7\xC3O
     PARA JOGOS 2D\\APS PROGRAMA\xC7\xC3O\\APS_Programacao\\APS_Programacao\\FMOD\\Build\\Desktop\\Master
     Bank.bank"
-  lastModified: 636790251573868410
+  lastModified: 636790213078270472
   LoadResult: 0
   FileSizes:
   - Name: Desktop
     Value: 12474
+  Exists: 1
+--- !u!114 &114182340493027042
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: FMOD\Build\Desktop\Master Bank.strings.bank
+  lastModified: 636790252381455196
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 726
   Exists: 1
 --- !u!114 &114631591256909852
 MonoBehaviour:
@@ -72,9 +70,50 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Path: FMOD\Build\Desktop\Master Bank.strings.bank
-  lastModified: 636790251573898059
+  lastModified: 636790213078300405
   LoadResult: 0
   FileSizes:
   - Name: Desktop
     Value: 672
+  Exists: 1
+--- !u!114 &114672787172031634
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: "event:/M\xFAsicas/Fase 1"
+  guid: b819566a0df619468364ec8fe5cb0618
+  Banks:
+  - {fileID: 114694973905315000}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 0
+--- !u!114 &114694973905315000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: C:\Users\Reinaldo\Desktop\Github_APS\APS_Programacao\APS_Programacao\FMOD\Build\Desktop\Master
+    Bank.bank
+  lastModified: 636790252381265185
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 13116
   Exists: 1
