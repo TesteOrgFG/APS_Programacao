@@ -15,6 +15,8 @@ public class Player : MonoBehaviour
     public GameObject bullet;
     public GameObject flameDragon;
 
+    public float fireRate;
+
 
 
     // Use this for initialization
@@ -28,10 +30,13 @@ public class Player : MonoBehaviour
     // Update is called once per frame
     void FixedUpdate()
     {
-        transform.Translate(0, speedX, 0);
+        transform.Translate(speedX, 0, 0);
         Move();
         Fire();
         Special();
+
+
+        fireRate -= Time.deltaTime;
     }
 
     void Move()
@@ -48,9 +53,10 @@ public class Player : MonoBehaviour
 
     void Fire()
     {
-        if (Input.GetKey(KeyCode.Space))
+        if (Input.GetKey(KeyCode.Space) && fireRate < 0)
         {
             Instantiate(bullet, firepoint.position, firepoint.rotation);
+            fireRate = 1;
         }
     }
 
