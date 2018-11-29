@@ -4,8 +4,9 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - Jogador
   - Backgroud
+  - Enemy
+  - Tiro1
   layers:
   - Default
   - TransparentFX
@@ -17,7 +18,7 @@ TagManager:
   - 
   - Background
   - Player
-  - 
+  - Enemy
   - 
   - 
   - 

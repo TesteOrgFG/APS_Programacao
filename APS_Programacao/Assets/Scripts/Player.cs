@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class Player : MonoBehaviour
 {
@@ -15,16 +16,17 @@ public class Player : MonoBehaviour
     public GameObject bullet;
     public GameObject flameDragon;
 
-    public float fireRate;
+    private float fireRate;
+    public int healthPlayer;
 
 
 
     // Use this for initialization
     void Start()
     {
-
         rb = GetComponent<Rigidbody2D>();
         speedY = 10;
+        healthPlayer = 100;
     }
 
     // Update is called once per frame
@@ -56,7 +58,7 @@ public class Player : MonoBehaviour
         if (Input.GetKey(KeyCode.Space) && fireRate < 0)
         {
             Instantiate(bullet, firepoint.position, firepoint.rotation);
-            fireRate = 1;
+            fireRate = 0.3f;
         }
     }
 
@@ -65,6 +67,15 @@ public class Player : MonoBehaviour
         if (Input.GetKey(KeyCode.Z))
         {
             Instantiate(flameDragon, firepointDragon.position, firepointDragon.rotation);
+        }
+    }
+
+   void PlayerDeath()
+    {
+        if (healthPlayer <= 0)
+        {
+            Destroy(gameObject);
+            SceneManager.LoadScene(SceneManager.GetSceneAt(0).name);
         }
     }
 }
