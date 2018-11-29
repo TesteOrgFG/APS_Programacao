@@ -33,4 +33,9 @@ public class MainMenu : MonoBehaviour {
     {
         FMODUnity.RuntimeManager.PlayOneShot("event:/SFX/Click", GetComponent<Transform>().position);
     }
+
+    public void MenuInicial()
+    {
+        SceneManager.LoadScene("Menu Inicial");
+    }
 }

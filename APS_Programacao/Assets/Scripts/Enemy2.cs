@@ -73,6 +73,7 @@ public class Enemy2 : MonoBehaviour {
         {
             Instantiate(prefabTiro, firepoint.position, firepoint.rotation);
             fireRateInimigo = 3f;
+            FMODUnity.RuntimeManager.PlayOneShot("event:/SFX/Flecha", GetComponent<Transform>().position);
         }
     }
 }

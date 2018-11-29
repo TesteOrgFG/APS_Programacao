@@ -62,6 +62,7 @@ public class Player : MonoBehaviour
         {
             Instantiate(bullet, firepoint.position, firepoint.rotation);
             fireRate = 0.3f;
+            FMODUnity.RuntimeManager.PlayOneShot("event:/SFX/Flecha", GetComponent<Transform>().position);
         }
     }
 
@@ -70,6 +71,7 @@ public class Player : MonoBehaviour
         if (Input.GetKey(KeyCode.Z))
         {
             Instantiate(flameDragon, firepointDragon.position, firepointDragon.rotation);
+            //FMODUnity.RuntimeManager.PlayOneShot("event:/SFX/Bafo do Dragão", GetComponent<Transform>().position);
         }
     }
 

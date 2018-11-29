@@ -62,6 +62,7 @@ public class Enemy3 : MonoBehaviour {
         {
             Instantiate(prefabTiro, firepoint.position, firepoint.rotation);
             fireRateInimigo3 = 3f;
+            FMODUnity.RuntimeManager.PlayOneShot("event:/SFX/Bola de canhão", GetComponent<Transform>().position);
         }
     }
 }

@@ -13,7 +13,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   EditorBanks:
   - {fileID: 114182340493027042}
-  - {fileID: 114639428814938600}
+  - {fileID: 114001594403600462}
   EditorEvents:
   - {fileID: 114672787172031634}
   - {fileID: 114110623032651558}
@@ -31,10 +31,31 @@ MonoBehaviour:
   - {fileID: 114810257012657582}
   - {fileID: 114649975833918622}
   - {fileID: 114853992789435544}
-  MasterBankRef: {fileID: 114639428814938600}
+  - {fileID: 114956669632564200}
+  MasterBankRef: {fileID: 114001594403600462}
   StringsBankRef: {fileID: 114182340493027042}
-  stringsBankWriteTime: 636790547666759587
+  stringsBankWriteTime: 636790627828101749
   cacheVersion: 2
+--- !u!114 &114001594403600462
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: "C:\\Users\\arthu\\Documents\\FACULDADE\\3\xBA SEMESTRE\\PROGRAMA\xC7\xC3O
+    PARA JOGOS 2D\\APS PROGRAMA\xC7\xC3O\\APS_Programacao\\APS_Programacao\\FMOD\\Build\\Desktop\\Master
+    Bank.bank"
+  lastModified: 636790627828031962
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 12289344
+  Exists: 1
 --- !u!114 &114054922209597930
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -49,7 +70,7 @@ MonoBehaviour:
   Path: event:/SFX/Bomba
   guid: aa5517bd79a8a74782dd005aeb1cbe6f
   Banks:
-  - {fileID: 114639428814938600}
+  - {fileID: 114001594403600462}
   IsStream: 0
   Is3D: 0
   IsOneShot: 1
@@ -71,7 +92,7 @@ MonoBehaviour:
   Path: "event:/M\xFAsicas/Boss"
   guid: 12164bb3334ae0419a33eaf9383eee75
   Banks:
-  - {fileID: 114639428814938600}
+  - {fileID: 114001594403600462}
   IsStream: 1
   Is3D: 0
   IsOneShot: 0
@@ -93,7 +114,7 @@ MonoBehaviour:
   Path: event:/SFX/Flecha
   guid: c930c35557f2724ca95f7737311ef323
   Banks:
-  - {fileID: 114639428814938600}
+  - {fileID: 114001594403600462}
   IsStream: 0
   Is3D: 0
   IsOneShot: 1
@@ -133,11 +154,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Path: FMOD\Build\Desktop\Master Bank.strings.bank
-  lastModified: 636790547666759587
+  lastModified: 636790627828101749
   LoadResult: 0
   FileSizes:
   - Name: Desktop
-    Value: 1412
+    Value: 1468
   Exists: 1
 --- !u!114 &114269806018741314
 MonoBehaviour:
@@ -153,7 +174,7 @@ MonoBehaviour:
   Path: event:/SFX/Flecha Boss
   guid: 9d96320cb0603a43af03fa91d12efdcf
   Banks:
-  - {fileID: 114639428814938600}
+  - {fileID: 114001594403600462}
   IsStream: 0
   Is3D: 0
   IsOneShot: 1
@@ -175,7 +196,7 @@ MonoBehaviour:
   Path: "event:/M\xFAsicas/Main Menu"
   guid: 67ce13c2bd8b94409d33e3fc9b5b6a34
   Banks:
-  - {fileID: 114639428814938600}
+  - {fileID: 114001594403600462}
   IsStream: 1
   Is3D: 0
   IsOneShot: 0
@@ -197,7 +218,7 @@ MonoBehaviour:
   Path: "event:/SFX/Respira\xE7\xE3o Drag\xE3o"
   guid: 24b073a7565ae448b249be4a84d70418
   Banks:
-  - {fileID: 114639428814938600}
+  - {fileID: 114001594403600462}
   IsStream: 1
   Is3D: 0
   IsOneShot: 0
@@ -219,7 +240,7 @@ MonoBehaviour:
   Path: "event:/SFX/\xC1guia"
   guid: a12140fcc7bb884eac6c242ca6d9d532
   Banks:
-  - {fileID: 114639428814938600}
+  - {fileID: 114001594403600462}
   IsStream: 1
   Is3D: 0
   IsOneShot: 1
@@ -261,7 +282,7 @@ MonoBehaviour:
   Path: "event:/M\xFAsicas/Derrota"
   guid: 891f3fda5459bd429db6e6ea69c1e261
   Banks:
-  - {fileID: 114639428814938600}
+  - {fileID: 114001594403600462}
   IsStream: 1
   Is3D: 0
   IsOneShot: 0
@@ -319,7 +340,7 @@ MonoBehaviour:
   Path: event:/SFX/Bater de Asas
   guid: d3a8632af06ab743b1e7c61ee72181ef
   Banks:
-  - {fileID: 114639428814938600}
+  - {fileID: 114001594403600462}
   IsStream: 1
   Is3D: 0
   IsOneShot: 1
@@ -341,7 +362,7 @@ MonoBehaviour:
   Path: "event:/M\xFAsicas/Fase 1"
   guid: e006192ce8842c48a2d12eb670eebfba
   Banks:
-  - {fileID: 114639428814938600}
+  - {fileID: 114001594403600462}
   IsStream: 1
   Is3D: 0
   IsOneShot: 0
@@ -363,7 +384,7 @@ MonoBehaviour:
   Path: event:/SFX/Escudo
   guid: bccab123d4e2264ab1d8e8cd96663c83
   Banks:
-  - {fileID: 114639428814938600}
+  - {fileID: 114001594403600462}
   IsStream: 1
   Is3D: 0
   IsOneShot: 1
@@ -404,7 +425,7 @@ MonoBehaviour:
   Path: "event:/M\xFAsicas/Vitoria"
   guid: cd3779eb46a74c4191b9881fbf1721a1
   Banks:
-  - {fileID: 114639428814938600}
+  - {fileID: 114001594403600462}
   IsStream: 1
   Is3D: 0
   IsOneShot: 0
@@ -426,7 +447,7 @@ MonoBehaviour:
   Path: event:/SFX/Power Up
   guid: f0da6ba6be93174699538a074a58aa9b
   Banks:
-  - {fileID: 114639428814938600}
+  - {fileID: 114001594403600462}
   IsStream: 1
   Is3D: 0
   IsOneShot: 1
@@ -448,7 +469,7 @@ MonoBehaviour:
   Path: "event:/SFX/Furia do Drag\xE3o READY"
   guid: 4b189f80499c5f45a29c66acae973fd6
   Banks:
-  - {fileID: 114639428814938600}
+  - {fileID: 114001594403600462}
   IsStream: 1
   Is3D: 0
   IsOneShot: 1
@@ -470,7 +491,7 @@ MonoBehaviour:
   Path: "event:/SFX/Bafo do Drag\xE3o"
   guid: 661625d16e49b646b2c25b1dfd2e3100
   Banks:
-  - {fileID: 114639428814938600}
+  - {fileID: 114001594403600462}
   IsStream: 0
   Is3D: 0
   IsOneShot: 1
@@ -478,6 +499,28 @@ MonoBehaviour:
   MinDistance: 0
   MaxDistance: 0
   Length: 7300
+--- !u!114 &114956669632564200
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: "event:/SFX/Bola de canh\xE3o"
+  guid: 740e5a7f9225b8489082912d639c6932
+  Banks:
+  - {fileID: 114001594403600462}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 2000
 --- !u!114 &114976964800915866
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -492,7 +535,7 @@ MonoBehaviour:
   Path: event:/SFX/Click
   guid: bfa7fcf5ad5aab4a9156f83de9115676
   Banks:
-  - {fileID: 114639428814938600}
+  - {fileID: 114001594403600462}
   IsStream: 0
   Is3D: 0
   IsOneShot: 1

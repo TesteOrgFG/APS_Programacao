@@ -1,0 +1,604 @@
+fileFormatVersion: 2
+guid: aabfa28d8ee563849a3050766ce7a4fb
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: boss_flecha0_1_0
+    21300002: boss_flecha0_1_1
+    21300004: boss_flecha0_1_2
+    21300006: boss_flecha0_1_3
+    21300008: boss_flecha0_1_4
+    21300010: boss_flecha0_1_5
+    21300012: boss_flecha0_1_6
+    21300014: boss_flecha0_1_7
+    21300016: boss_flecha0_1_8
+    21300018: boss_flecha0_1_9
+    21300020: boss_flecha0_1_10
+    21300022: boss_flecha0_1_11
+    21300024: boss_flecha0_1_12
+    21300026: boss_flecha0_1_13
+    21300028: boss_flecha0_1_14
+    21300030: boss_flecha0_1_15
+    21300032: boss_flecha0_1_16
+    21300034: boss_flecha0_1_17
+    21300036: boss_flecha0_1_18
+    21300038: boss_flecha0_1_19
+    21300040: boss_flecha0_1_20
+    21300042: boss_flecha0_1_21
+    21300044: boss_flecha0_1_22
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 2
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 350
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: boss_flecha0_1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8927
+        width: 1799
+        height: 2173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed4b482ac27f99e41ab3212de744491e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_flecha0_1_1
+      rect:
+        serializedVersion: 2
+        x: 1905
+        y: 8927
+        width: 1798
+        height: 2173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 517e7265a93623d4e8b259f3ceacab1c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_flecha0_1_2
+      rect:
+        serializedVersion: 2
+        x: 3792
+        y: 8927
+        width: 1799
+        height: 2173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c27f40bced8b8154cb430c28ca55fec8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_flecha0_1_3
+      rect:
+        serializedVersion: 2
+        x: 5690
+        y: 8927
+        width: 1798
+        height: 2173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ccb5b1f31d785f489747628e961243e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_flecha0_1_4
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 8927
+        width: 1799
+        height: 2173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45ee01889bae86543811fa7ce1531604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_flecha0_1_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6705
+        width: 1798
+        height: 2173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba07a0bca2de85499460334fa666b06
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_flecha0_1_6
+      rect:
+        serializedVersion: 2
+        x: 1899
+        y: 6705
+        width: 1798
+        height: 2173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2fd0da856f092a4aa7e41ae314260d8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_flecha0_1_7
+      rect:
+        serializedVersion: 2
+        x: 3793
+        y: 6705
+        width: 1799
+        height: 2173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a26ef93b2d2d49c4ab12ebcee827cfd9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_flecha0_1_8
+      rect:
+        serializedVersion: 2
+        x: 5689
+        y: 6705
+        width: 1798
+        height: 2173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e01f9daa31b3c4948ad2ba4b7c66724e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_flecha0_1_9
+      rect:
+        serializedVersion: 2
+        x: 7583
+        y: 6718
+        width: 1799
+        height: 2173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 880451ea688b13d41b3c3fd7a8dce855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_flecha0_1_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4511
+        width: 1798
+        height: 2173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44263a6acd1397540af5f329ad1e67a3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_flecha0_1_11
+      rect:
+        serializedVersion: 2
+        x: 1899
+        y: 4498
+        width: 1798
+        height: 2173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb5274dd52bad1d47bec9edac46acea9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_flecha0_1_12
+      rect:
+        serializedVersion: 2
+        x: 3793
+        y: 4498
+        width: 1799
+        height: 2173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ae18e6bc09449a4eac7eff770221214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_flecha0_1_13
+      rect:
+        serializedVersion: 2
+        x: 5689
+        y: 4498
+        width: 1798
+        height: 2173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11292fe3eb7439849a5bdb9a542939ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_flecha0_1_14
+      rect:
+        serializedVersion: 2
+        x: 7583
+        y: 4498
+        width: 1799
+        height: 2173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93618b28bfe785444a2dd62f9002c67f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_flecha0_1_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2303
+        width: 1798
+        height: 2173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5fe8b17aed3bce48961f9cbcd5d130b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_flecha0_1_16
+      rect:
+        serializedVersion: 2
+        x: 1899
+        y: 2303
+        width: 1798
+        height: 2173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6e98634f8ec1f442934ddc58c5bdd6f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_flecha0_1_17
+      rect:
+        serializedVersion: 2
+        x: 3793
+        y: 2303
+        width: 1799
+        height: 2173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c10ec44bcc28ac44fa498a6f435ce73c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_flecha0_1_18
+      rect:
+        serializedVersion: 2
+        x: 5689
+        y: 2303
+        width: 1798
+        height: 2173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0031b6a4cc984d4992e0d13cccd9ade
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_flecha0_1_19
+      rect:
+        serializedVersion: 2
+        x: 7583
+        y: 2303
+        width: 1799
+        height: 2173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f8bcf4fb9baf3e4496d45bf32b63727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_flecha0_1_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 63
+        width: 1798
+        height: 2173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee96e83ee8162ba45a333d5b0302568e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_flecha0_1_21
+      rect:
+        serializedVersion: 2
+        x: 1899
+        y: 63
+        width: 1798
+        height: 2173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fb3f9c11471808468c4525247931635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_flecha0_1_22
+      rect:
+        serializedVersion: 2
+        x: 3793
+        y: 63
+        width: 1799
+        height: 2173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e57ca4a0ffe5ed4cac79c6c0c2aec71
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: a0e165978e1597947bced470643e29c9
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

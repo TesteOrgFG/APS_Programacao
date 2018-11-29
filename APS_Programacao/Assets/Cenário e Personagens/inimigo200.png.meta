@@ -1,0 +1,652 @@
+fileFormatVersion: 2
+guid: bffe40ebce7d8b448b737e854b17943f
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: inimigo200_0
+    21300002: inimigo200_1
+    21300004: inimigo200_2
+    21300006: inimigo200_3
+    21300008: inimigo200_4
+    21300010: inimigo200_5
+    21300012: inimigo200_6
+    21300014: inimigo200_7
+    21300016: inimigo200_8
+    21300018: inimigo200_9
+    21300020: inimigo200_10
+    21300022: inimigo200_11
+    21300024: inimigo200_12
+    21300026: inimigo200_13
+    21300028: inimigo200_14
+    21300030: inimigo200_15
+    21300032: inimigo200_16
+    21300034: inimigo200_17
+    21300036: inimigo200_18
+    21300038: inimigo200_19
+    21300040: inimigo200_20
+    21300042: inimigo200_21
+    21300044: inimigo200_22
+    21300046: inimigo200_23
+    21300048: inimigo200_24
+    21300050: inimigo200_25
+    21300052: inimigo200_26
+    21300054: inimigo200_27
+    21300056: inimigo200_28
+    21300058: inimigo200_29
+    21300060: inimigo200_30
+    21300062: inimigo200_31
+    21300064: inimigo200_32
+    21300066: inimigo200_33
+    21300068: inimigo200_34
+    21300070: inimigo200_35
+    21300072: inimigo200_36
+    21300074: inimigo200_37
+    21300076: inimigo200_38
+    21300078: inimigo200_39
+    21300080: inimigo200_40
+    21300082: inimigo200_41
+    21300084: inimigo200_42
+    21300086: inimigo200_43
+    21300088: inimigo200_44
+    21300090: inimigo200_45
+    21300092: inimigo200_46
+    21300094: inimigo200_47
+    21300096: inimigo200_48
+    21300098: inimigo200_49
+    21300100: inimigo200_50
+    21300102: inimigo200_51
+    21300104: inimigo200_52
+    21300106: inimigo200_53
+    21300108: inimigo200_54
+    21300110: inimigo200_55
+    21300112: inimigo200_56
+    21300114: inimigo200_57
+    21300116: inimigo200_58
+    21300118: inimigo200_59
+    21300120: inimigo200_60
+    21300122: inimigo200_61
+    21300124: inimigo200_62
+    21300126: inimigo200_63
+    21300128: inimigo200_64
+    21300130: inimigo200_65
+    21300132: inimigo200_66
+    21300134: inimigo200_67
+    21300136: inimigo200_68
+    21300138: inimigo200_69
+    21300140: inimigo200_70
+    21300142: inimigo200_71
+    21300144: inimigo200_72
+    21300146: inimigo200_73
+    21300148: inimigo200_74
+    21300150: inimigo200_75
+    21300152: inimigo200_76
+    21300154: inimigo200_77
+    21300156: inimigo200_78
+    21300158: inimigo200_79
+    21300160: inimigo200_80
+    21300162: inimigo200_81
+    21300164: inimigo200_82
+    21300166: inimigo200_83
+    21300168: inimigo200_84
+    21300170: inimigo200_85
+    21300172: inimigo200_86
+    21300174: inimigo200_87
+    21300176: inimigo200_88
+    21300178: inimigo200_89
+    21300180: inimigo200_90
+    21300182: inimigo200_91
+    21300184: inimigo200_92
+    21300186: inimigo200_93
+    21300188: inimigo200_94
+    21300190: inimigo200_95
+    21300192: inimigo200_96
+    21300194: inimigo200_97
+    21300196: inimigo200_98
+    21300198: inimigo200_99
+    21300200: inimigo200_100
+    21300202: inimigo200_101
+    21300204: inimigo200_102
+    21300206: inimigo200_103
+    21300208: inimigo200_104
+    21300210: inimigo200_105
+    21300212: inimigo200_106
+    21300214: inimigo200_107
+    21300216: inimigo200_108
+    21300218: inimigo200_109
+    21300220: inimigo200_110
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 2
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 500
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: inimigo200_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6622
+        width: 1324
+        height: 1578
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 470646650deaa094e92a8076bbc32576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo200_1
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 6622
+        width: 1324
+        height: 1578
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fe3a8535069cd242a7994d2bd04255b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo200_2
+      rect:
+        serializedVersion: 2
+        x: 2806
+        y: 6622
+        width: 1324
+        height: 1578
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3971782d44cc91f4ca7add1c790b099d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo200_3
+      rect:
+        serializedVersion: 2
+        x: 4179
+        y: 6622
+        width: 1324
+        height: 1578
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f559cb675be52b41bfede997928501c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo200_4
+      rect:
+        serializedVersion: 2
+        x: 5580
+        y: 6622
+        width: 1324
+        height: 1578
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c696388df09aa5649b8d7a048af1b17a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo200_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4990
+        width: 1324
+        height: 1578
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1f303d36ed15384083beea41622fbf7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo200_6
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 4990
+        width: 1324
+        height: 1578
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f57350bf1f766fb49a15f9246822b0af
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo200_7
+      rect:
+        serializedVersion: 2
+        x: 2778
+        y: 4990
+        width: 1324
+        height: 1578
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89947ea89a885b847a42cf675101132c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo200_8
+      rect:
+        serializedVersion: 2
+        x: 4174
+        y: 4990
+        width: 1324
+        height: 1578
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 147cf0f4cb7112647bef465fbe5ea6a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo200_9
+      rect:
+        serializedVersion: 2
+        x: 5580
+        y: 4990
+        width: 1324
+        height: 1578
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83a7cd1612c3f5b48976b15784b31f44
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo200_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3350
+        width: 1324
+        height: 1578
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd9f217c44ec3264b9beefc1629200dd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo200_11
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 3350
+        width: 1324
+        height: 1578
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3574af88ebb006418c48b4ee4837f33
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo200_12
+      rect:
+        serializedVersion: 2
+        x: 2769
+        y: 3350
+        width: 1324
+        height: 1578
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7335adb68164a5648b78dbb82edf8fb5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo200_13
+      rect:
+        serializedVersion: 2
+        x: 4179
+        y: 3350
+        width: 1324
+        height: 1578
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60fa7604c8027fa458a41b54eb98b96d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo200_14
+      rect:
+        serializedVersion: 2
+        x: 5567
+        y: 3350
+        width: 1324
+        height: 1578
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 400a35c14ddd0af46a76d03fce16392b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo200_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1700
+        width: 1324
+        height: 1578
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28ff716690226f441a6b9756acd3e81d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo200_16
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 1700
+        width: 1324
+        height: 1578
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6165faba67e774e4c8cd29122eecfb1e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo200_17
+      rect:
+        serializedVersion: 2
+        x: 2797
+        y: 1700
+        width: 1324
+        height: 1578
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 089e3ba9b79b22745ad61d524baa9b4d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo200_18
+      rect:
+        serializedVersion: 2
+        x: 4179
+        y: 1700
+        width: 1324
+        height: 1578
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf86348038153a04d9d4fc4278e4c219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo200_19
+      rect:
+        serializedVersion: 2
+        x: 5580
+        y: 1700
+        width: 1324
+        height: 1578
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a331fd6df1e23c49ba7c38d614c8a75
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo200_20
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 50
+        width: 1324
+        height: 1578
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5445ed25c95b6d140914e51baf08fee8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 646d016841fb7fc4b8c39f5a16a1cf21
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
