@@ -23,9 +23,9 @@ GameObject:
   - component: {fileID: 50380133654493672}
   - component: {fileID: 61617082433282384}
   - component: {fileID: 114739216126565592}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: TiroTorre
-  m_TagString: Untagged
+  m_TagString: TiroInimigo3
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

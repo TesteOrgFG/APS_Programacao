@@ -94,9 +94,19 @@ public class Player : MonoBehaviour
             healthPlayer -= Enemy2.damageEnemy2;
         }
 
-        if(collision.tag == "TiroInimigo2")
+        if (collision.tag == "Enemy3")
+        {
+            healthPlayer -= Enemy3.damageEnemy3;
+        }
+
+        if (collision.tag == "TiroInimigo2")
         {
             healthPlayer -= TiroInimigo2.danoTiroInimigo2;
+        }
+
+        if (collision.tag == "TiroInimigo3")
+        {
+            healthPlayer -= TiroInimigo3.danoTiroInimigo3;
         }
     }
 }

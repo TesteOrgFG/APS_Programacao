@@ -32,6 +32,11 @@ public class TiroScript : MonoBehaviour
         {
             Destroy(gameObject);
         }
+
+        if (collision.tag == "Enemy3")
+        {
+            Destroy(gameObject);
+        }
     }
 
     void OnBecameInvisible()

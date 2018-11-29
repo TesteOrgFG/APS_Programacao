@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class TiroInimigo3 : MonoBehaviour {
 
-    public static int danoInimigo3 = 15;
+    public static int danoTiroInimigo3 = 15;
     public float velocidade;
 
     // Update is called once per frame
@@ -22,5 +22,10 @@ public class TiroInimigo3 : MonoBehaviour {
         {
             Destroy(gameObject);
         }
+    }
+
+    void OnBecameInvisible()
+    {
+        Destroy(gameObject);
     }
 }

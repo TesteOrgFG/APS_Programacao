@@ -9,6 +9,8 @@ TagManager:
   - Tiro1
   - Enemy2
   - TiroInimigo2
+  - Enemy3
+  - TiroInimigo3
   layers:
   - Default
   - TransparentFX
