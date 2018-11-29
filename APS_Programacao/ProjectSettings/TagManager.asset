@@ -7,6 +7,8 @@ TagManager:
   - Backgroud
   - Enemy
   - Tiro1
+  - Enemy2
+  - TiroInimigo2
   layers:
   - Default
   - TransparentFX

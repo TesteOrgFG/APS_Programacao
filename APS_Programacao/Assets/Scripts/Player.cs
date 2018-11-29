@@ -36,9 +36,12 @@ public class Player : MonoBehaviour
         Move();
         Fire();
         Special();
+        PlayerDeath();
 
 
         fireRate -= Time.deltaTime;
+
+        print(healthPlayer);
     }
 
     void Move()
@@ -76,6 +79,24 @@ public class Player : MonoBehaviour
         {
             Destroy(gameObject);
             SceneManager.LoadScene(SceneManager.GetSceneAt(0).name);
+        }
+    }
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.tag == "Enemy")
+        {
+            healthPlayer -= Enemy1.damageEnemy1;
+        }
+
+        if(collision.tag == "Enemy2")
+        {
+            healthPlayer -= Enemy2.damageEnemy2;
+        }
+
+        if(collision.tag == "TiroInimigo2")
+        {
+            healthPlayer -= TiroInimigo2.danoTiroInimigo2;
         }
     }
 }

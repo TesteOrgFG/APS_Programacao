@@ -2,36 +2,26 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class TiroScript : MonoBehaviour
-{
-    Vector3 inicial;
-    public static int DanoTiro1 = 15;
+public class TiroInimigo2 : MonoBehaviour {
 
-    // Use this for initialization
-    void Start()
-    {
-       
-    }
+    public static int danoTiroInimigo2 = 15;
+    public float velocidade;
+
     // Update is called once per frame
     void Update()
     {
         Rigidbody2D rb;
         rb = GetComponent<Rigidbody2D>();
-        Vector2 vetor = new Vector2(100, 0);
+        Vector2 vetor = new Vector2(velocidade, 0);
         rb.AddForce(vetor);
     }
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if (collision.tag == "Enemy")
+        if (collision.tag == "Player")
         {
             Destroy(gameObject);
-        }
-
-        if (collision.tag == "Enemy2")
-        {
-            Destroy(gameObject);
-        }
+        }  
     }
 
     void OnBecameInvisible()

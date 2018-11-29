@@ -6,7 +6,7 @@ public class
     Enemy1 : MonoBehaviour
 {
     public float speedX;
-    public int damageEnemy1;
+    public static int damageEnemy1;
     public int healthEnemy1;
     //SpriteRenderer sprite;
 
@@ -14,7 +14,7 @@ public class
     void Start()
     {
        // sprite = GetComponent<SpriteRenderer>();
-        damageEnemy1 = 15;
+        damageEnemy1 = 30;
         healthEnemy1 = 30;
     }
 
@@ -25,6 +25,7 @@ public class
         print(healthEnemy1);
     }
 
+    
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
