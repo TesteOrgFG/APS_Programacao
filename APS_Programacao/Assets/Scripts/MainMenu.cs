@@ -23,4 +23,14 @@ public class MainMenu : MonoBehaviour {
     {
 
     }
+
+    public void BaterAsas()
+    {
+        FMODUnity.RuntimeManager.PlayOneShot("event:/SFX/Bater de Asas", GetComponent<Transform>().position);
+    }
+
+    public void Click()
+    {
+        FMODUnity.RuntimeManager.PlayOneShot("event:/SFX/Click", GetComponent<Transform>().position);
+    }
 }
