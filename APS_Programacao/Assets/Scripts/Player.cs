@@ -80,7 +80,7 @@ public class Player : MonoBehaviour
         if (healthPlayer <= 0)
         {
             Destroy(gameObject);
-            SceneManager.LoadScene(SceneManager.GetSceneAt(0).name);
+            SceneManager.LoadScene(SceneManager.GetSceneAt(3).name);
         }
     }
 
@@ -109,6 +109,11 @@ public class Player : MonoBehaviour
         if (collision.tag == "TiroInimigo3")
         {
             healthPlayer -= TiroInimigo3.danoTiroInimigo3;
+        }
+
+        if (collision.tag == "AcionaBoss")
+        {
+            SceneManager.LoadScene(SceneManager.GetSceneAt(2).name);
         }
     }
 }

@@ -8,6 +8,8 @@ public class
     public float speedX;
     public static int damageEnemy1;
     public int healthEnemy1;
+   
+
     //SpriteRenderer sprite;
 
     // Use this for initialization

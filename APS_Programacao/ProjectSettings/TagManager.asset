@@ -11,6 +11,8 @@ TagManager:
   - TiroInimigo2
   - Enemy3
   - TiroInimigo3
+  - LimiteBoss
+  - AcionaBoss
   layers:
   - Default
   - TransparentFX
